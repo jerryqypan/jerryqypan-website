@@ -3,59 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>jerryqypan.github.io/posts/2019-8-12_hello_world/</loc>
+    <loc>/posts/2019-8-12_hello_world/</loc>
     <lastmod>2019-08-11T10:25:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>jerryqypan.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2019-08-11T10:25:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>jerryqypan.github.io/posts/</loc>
+    <loc>/tags/personal/</loc>
     <lastmod>2019-08-11T10:25:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>jerryqypan.github.io/tags/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-08-11T10:25:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>jerryqypan.github.io/tags/personal/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-08-11T10:25:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>jerryqypan.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>jerryqypan.github.io/posts/2017-12-21_markov_ms/</loc>
+    <loc>/posts/2017-12-21_markov_ms/</loc>
     <lastmod>2017-12-21T10:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>jerryqypan.github.io/tags/gaming/</loc>
+    <loc>/tags/gaming/</loc>
     <lastmod>2017-12-21T10:00:00-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>jerryqypan.github.io/tags/math/</loc>
+    <loc>/tags/math/</loc>
     <lastmod>2017-12-21T10:00:00-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>jerryqypan.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

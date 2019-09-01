@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jerry Pan</title>
-    <link>jerryqypan.github.io/</link>
+    <link>/</link>
     <description>Recent content on Jerry Pan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2019 10:25:00 -0700</lastBuildDate>
     
-	<atom:link href="jerryqypan.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World!</title>
-      <link>jerryqypan.github.io/posts/2019-8-12_hello_world/</link>
+      <link>/posts/2019-8-12_hello_world/</link>
       <pubDate>Sun, 11 Aug 2019 10:25:00 -0700</pubDate>
       
-      <guid>jerryqypan.github.io/posts/2019-8-12_hello_world/</guid>
+      <guid>/posts/2019-8-12_hello_world/</guid>
       <description>print(&amp;ldquo;Hello World!&amp;rdquo;)
 The variants of this line of code is probably what you wrote when you first learned to program. Heck, I even wrote this 3 times (Hack, Android, IOS) in the past week during Facebook&amp;rsquo;s Bootcamp, the companies ramp-up program for all new employees.
 Speaking of Facebook, I began my first real job 2 weeks ago, and I meant to write this post to coincide with my first day of work and the start to my &amp;ldquo;adult&amp;rdquo; life.</description>
@@ -24,19 +24,19 @@ Speaking of Facebook, I began my first real job 2 weeks ago, and I meant to writ
     
     <item>
       <title>About</title>
-      <link>jerryqypan.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>jerryqypan.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>This is some static page where you can write about yourself.</description>
     </item>
     
     <item>
       <title>Discrete Time Markov Chains for Maplestory Inner Ability</title>
-      <link>jerryqypan.github.io/posts/2017-12-21_markov_ms/</link>
+      <link>/posts/2017-12-21_markov_ms/</link>
       <pubDate>Thu, 21 Dec 2017 10:00:00 -0400</pubDate>
       
-      <guid>jerryqypan.github.io/posts/2017-12-21_markov_ms/</guid>
+      <guid>/posts/2017-12-21_markov_ms/</guid>
       <description>I put this in a private Github repo two years ago, but never published it because for some reason Github did not display markdown properly and I couldn&amp;rsquo;t bold text by using ** **.
 I was playing Maplestory several weeks ago (right before finals oops) and I came across a stat boosting feature called inner ability. Without getting into too much details, inner ability gives a character additional benefits which are randomly generated depending on the rarity of the inner ability.</description>
     </item>
