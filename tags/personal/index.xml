@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>personal on Jerry Pan</title>
-    <link>/tags/personal/</link>
+    <link>https://jerryqypan.github.io/tags/personal/</link>
     <description>Recent content in personal on Jerry Pan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2019 10:25:00 -0700</lastBuildDate>
     
-	<atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jerryqypan.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World!</title>
-      <link>/posts/2019-8-12_hello_world/</link>
+      <link>https://jerryqypan.github.io/posts/2019-8-12_hello_world/</link>
       <pubDate>Sun, 11 Aug 2019 10:25:00 -0700</pubDate>
       
-      <guid>/posts/2019-8-12_hello_world/</guid>
+      <guid>https://jerryqypan.github.io/posts/2019-8-12_hello_world/</guid>
       <description>print(&amp;ldquo;Hello World!&amp;rdquo;)
 The variants of this line of code is probably what you wrote when you first learned to program. Heck, I even wrote this 3 times (Hack, Android, IOS) in the past week during Facebook&amp;rsquo;s Bootcamp, the companies ramp-up program for all new employees.
 Speaking of Facebook, I began my first real job 2 weeks ago, and I meant to write this post to coincide with my first day of work and the start to my &amp;ldquo;adult&amp;rdquo; life.</description>

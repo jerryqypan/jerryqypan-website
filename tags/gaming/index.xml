@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gaming on Jerry Pan</title>
-    <link>/tags/gaming/</link>
+    <link>https://jerryqypan.github.io/tags/gaming/</link>
     <description>Recent content in gaming on Jerry Pan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Dec 2017 10:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jerryqypan.github.io/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Discrete Time Markov Chains for Maplestory Inner Ability</title>
-      <link>/posts/2017-12-21_markov_ms/</link>
+      <link>https://jerryqypan.github.io/posts/2017-12-21_markov_ms/</link>
       <pubDate>Thu, 21 Dec 2017 10:00:00 -0400</pubDate>
       
-      <guid>/posts/2017-12-21_markov_ms/</guid>
+      <guid>https://jerryqypan.github.io/posts/2017-12-21_markov_ms/</guid>
       <description>I put this in a private Github repo two years ago, but never published it because for some reason Github did not display markdown properly and I couldn&amp;rsquo;t bold text by using ** **.
 I was playing Maplestory several weeks ago (right before finals oops) and I came across a stat boosting feature called inner ability. Without getting into too much details, inner ability gives a character additional benefits which are randomly generated depending on the rarity of the inner ability.</description>
     </item>
